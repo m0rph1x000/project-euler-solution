@@ -35,6 +35,9 @@ Find the thirteen adjacent digits in the 1000-digit number that have the greates
 | Go       | [`main.go`](./main.go) |
 | Python   | [`main.py`](./main.go) |
 
+<details>
+  <summary>Final result</summary>
+  
+  ### 23514624000
 
-
-Final result: __23514624000__
+</details>
