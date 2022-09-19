@@ -1,3 +1,7 @@
 # Binaries for programs
 *.exe
 *.exe~
+*.rs
+
+# templates folder
+proj-08/template
