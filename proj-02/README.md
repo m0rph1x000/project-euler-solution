@@ -34,4 +34,4 @@ I solve this problem using two methods. First one is generally a mathematical wa
 
 </details>
 
-[^1] https://en.wikipedia.org/wiki/Fibonacci_number
+[^1]: https://en.wikipedia.org/wiki/Fibonacci_number
