@@ -18,7 +18,6 @@ Find the product abc.
 | Language | Path (link)            |
 | :------- | :--------------------- |
 | Go       | [`main.go`](./main.go) |
-| Python   | [`main.py`](./main.go) |
 | Rust     | [`main.rs`](./main.rs) |
 
 
